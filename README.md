@@ -2,7 +2,7 @@
 # Simple TCP Flood Script
 
 This is a Python-based TCP flood tool designed to send multiple TCP packets to a target IP and port concurrently using threading. It attempts to check if the target is online before starting the attack and visually displays status messages using colored terminal output.
-
+Use for your own risk! Made for educational purposes only.
 ---
 
 ## Features
