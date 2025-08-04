@@ -56,7 +56,7 @@ How It Works
 
 Example Output
 
-Enter Target IP: 192.168.1.10
+Enter Target IP: 192.148.99.10
 
 Enter open port: 80
 
